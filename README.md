@@ -2,9 +2,13 @@
 
 ## Contents
 
-1. [CNN_MNIST]() : CNN을 이용한 간단한 NMIST 진행
+1. [CNN_MNIST](https://github.com/newhiwoong/Keras-Applications/blob/master/01_CNN_MNIST.ipynb) : CNN을 이용한 간단한 NMIST 진행  
 
-![](imimages/01.PNG)
+![](images/01.PNG)
+
+
+
+
 
 ## Reference
 
