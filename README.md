@@ -10,9 +10,13 @@
 
 ![](images/02.PNG)
 
-3. [CNN use pretrained VGG16](https://github.com/newhiwoong/Keras-Applications/blob/master/03_CNN_use_pretrained_VGG16.ipynb) : 이미 학습된 VGG16과 위에 데이터 증식을 응용해서 작은 Datasets에서 90%이상의 분류기 알고리즘 제작
+3. [CNN use pretrained VGG16](https://github.com/newhiwoong/Keras-Applications/blob/master/03_CNN_use_pretrained_VGG16.ipynb) : 이미 학습된 VGG16과 위에 데이터 증식을 응용해서 작은 Datasets에서 90%이상의 높은 성능을 갖는 분류기 제작
 
 ![](images/03.PNG)
+
+
+
+
 
 ## Reference
 
