@@ -14,7 +14,9 @@
 
 ![](images/03.PNG)
 
+4. [CNN visualizing what convnets learn](https://github.com/newhiwoong/Keras-Applications/blob/master/03_CNN_use_pretrained_VGG16.ipynb) : convnets learn과정은 시각화와 CAM(Class Activation Map) 시각화를 통해 CNN 과정을 시각적으로 이해하기.
 
+![](images/04.PNG)
 
 
 
