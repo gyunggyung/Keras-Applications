@@ -18,7 +18,7 @@
 
 ![](images/04.PNG)
 
-5. [RNN word embeddings](https://github.com/newhiwoong/Keras-Applications/blob/master/05_RNN_word_embeddings.ipynb) : one hot encoding와 word embeddings을 만들고 word embeddings으로 IMDB와 GloVe 데이터를 학습하기
+5. [RNN word embeddings](https://github.com/newhiwoong/Keras-Applications/blob/master/05_RNN_word_embeddings.ipynb) : one hot encoding제작, GloVe로 word embeddings을 만들어서 IMDB 영화의 긍부정 학습
 
 ![](images/05.PNG)
 
