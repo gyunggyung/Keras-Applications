@@ -22,6 +22,12 @@
 
 ![](images/05.PNG)
 
+6. [RNN understanding rnn lstm](https://github.com/newhiwoong/Keras-Applications/blob/master/06_RNN_understanding_rnn_lstm.ipynb) : RNN과 LSTM
+
+![](images/06.PNG)
+
+
+
 ## Reference
 
 > [케라스 창시자에게 배우는 딥러닝](https://github.com/rickiepark/deep-learning-with-python-notebooks)  
