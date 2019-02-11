@@ -1,7 +1,5 @@
 # Keras-Applications
 
-## Contents
-
 1. [CNN_MNIST](https://github.com/newhiwoong/Keras-Applications/blob/master/01_CNN_MNIST.ipynb) : CNN을 이용한 간단한 NMIST 진행  
 
 ![](images/01.PNG)
@@ -26,10 +24,30 @@
 
 ![](images/06.PNG)
 
+## Sequence Models 
 
+- [Dinosaurus land](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%201/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
+
+![](images/s1.png)
+
+- [Improvise a Jazz Solo](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%201/Jazz%20improvisation%20with%20LSTM/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.ipynb)
+
+![](images/s2.png)
+
+- [Emojify](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%202/Emojify/Emojify%2B-%2Bv2.ipynb)
+
+![](images/s3.png)
+
+- [Neural Machine Translation](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%203/Machine%20Translation/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
+
+![](images/s4.png)
+
+- [Trigger Word Detection](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%203/Trigger%20word%20detection/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
+
+![](images/s5.png)
 
 ## Reference
 
 > [케라스 창시자에게 배우는 딥러닝](https://github.com/rickiepark/deep-learning-with-python-notebooks)  
-> 
-> [Keras examples directory](https://github.com/keras-team/keras/tree/master/examples)
+> [Keras examples directory](https://github.com/keras-team/keras/tree/master/examples)  
+> [Coursera Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
