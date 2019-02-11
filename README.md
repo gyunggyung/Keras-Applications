@@ -50,4 +50,4 @@
 
 > [케라스 창시자에게 배우는 딥러닝](https://github.com/rickiepark/deep-learning-with-python-notebooks)  
 > [Keras examples directory](https://github.com/keras-team/keras/tree/master/examples)  
-> [Coursera Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+> [Coursera Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) : [Code](https://github.com/newhiwoong/Sequence-Models-coursera)
