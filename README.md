@@ -26,16 +26,14 @@
 
 ![](images/06.PNG)
 
-7. [RNN advanced usage of rnn](https://github.com/newhiwoong/Keras-Applications/blob/master/07_RNN_advanced_usage_of_rnn.ipynb) : 기온 예측 문제를 통해 RNN의 다양한 사용법 학습을 이해합니다. (recurrent dropout, stacking recurrent layer, bidirectional recurrent layer)
+7. [RNN advanced usage of rnn](https://github.com/newhiwoong/Keras-Applications/blob/master/07_RNN_advanced_usage_of_rnn.ipynb) : 기온 예측 문제를 통해 RNN의 다양한 사용법 이해 (recurrent dropout, stacking recurrent layer, bidirectional recurrent layer)
 
 ![](images/07.PNG)
 
-8. [RNN processing with convnets ](https://github.com/newhiwoong/Keras-Applications/blob/master/08_RNN_processing_with_convnets) : 1D convnets을 이용하여 특정 자연어 처리 같은 일부 문제에서 RNN을 대신하는 빠른 모델 제작
+8. [RNN processing with convnets](https://github.com/newhiwoong/Keras-Applications/blob/master/08_RNN_processing_with_convnets) : 1D convnets을 이용하여 특정 자연어 처리 같은 일부 문제에서 RNN을 대신하는 빠른 모델 제작
 
-![](images/08.PNG)
-
-
-
+![](images/08.PNG)  
+> Image : https://arxiv.org/abs/1610.03017
 
 
 ## Reference
@@ -45,15 +43,3 @@
 > [Keras examples directory](https://github.com/keras-team/keras/tree/master/examples)
 > 
 > [Coursera Sequence Models](https://www.coursera.org/learn/nlp-sequence-models):[Code](https://github.com/newhiwoong/Sequence-Models-coursera)
-
-
-
-
-
-
-
-
-
-
-
-
