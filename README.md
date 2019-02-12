@@ -22,9 +22,17 @@
 
 ![](images/05.PNG)
 
-6. [RNN understanding rnn lstm](https://github.com/newhiwoong/Keras-Applications/blob/master/06_RNN_understanding_rnn_lstm.ipynb) : RNN과 LSTM
+6. [RNN understanding rnn lstm](https://github.com/newhiwoong/Keras-Applications/blob/master/06_RNN_understanding_rnn_lstm.ipynb) : RNN과 LSTM를 이용하여 IMDB 영화의 긍부정 학습을 하며 RNN과 LSTM의 사용방법 이해하기
 
 ![](images/06.PNG)
+
+7. [RNN advanced usage of rnn](https://github.com/newhiwoong/Keras-Applications/blob/master/07_RNN_advanced_usage_of_rnn.ipynb) : RNN의 고급 사용법 학습
+
+![](images/07.PNG)
+
+8. [RNN ]()
+
+![](images/08.PNG)
 
 
 
