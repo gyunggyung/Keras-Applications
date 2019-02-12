@@ -33,10 +33,37 @@
 8. [RNN processing with convnets](https://github.com/newhiwoong/Keras-Applications/blob/master/08_RNN_processing_with_convnets) : 1D convnets을 이용하여 특정 자연어 처리 같은 일부 문제에서 RNN을 대신하는 빠른 모델 제작
 
 ![](images/08.PNG)  
+
 > Image : https://arxiv.org/abs/1610.03017
 
 
+
+## Sequence Models
+
+- [Dinosaurus land](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%201/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
+
+[![](https://github.com/newhiwoong/Keras-Applications/raw/015d452312af24815ead6770770e9eacad7f2395/images/s1.png)](https://github.com/newhiwoong/Keras-Applications/blob/015d452312af24815ead6770770e9eacad7f2395/images/s1.png)
+
+- [Improvise a Jazz Solo](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%201/Jazz%20improvisation%20with%20LSTM/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.ipynb)
+
+[![](https://github.com/newhiwoong/Keras-Applications/raw/015d452312af24815ead6770770e9eacad7f2395/images/s2.png)](https://github.com/newhiwoong/Keras-Applications/blob/015d452312af24815ead6770770e9eacad7f2395/images/s2.png)
+
+- [Emojify](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%202/Emojify/Emojify%2B-%2Bv2.ipynb)
+
+[![](https://github.com/newhiwoong/Keras-Applications/raw/015d452312af24815ead6770770e9eacad7f2395/images/s3.png)](https://github.com/newhiwoong/Keras-Applications/blob/015d452312af24815ead6770770e9eacad7f2395/images/s3.png)
+
+- [Neural Machine Translation](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%203/Machine%20Translation/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
+
+[![](https://github.com/newhiwoong/Keras-Applications/raw/015d452312af24815ead6770770e9eacad7f2395/images/s4.png)](https://github.com/newhiwoong/Keras-Applications/blob/015d452312af24815ead6770770e9eacad7f2395/images/s4.png)
+
+- [Trigger Word Detection](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%203/Trigger%20word%20detection/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
+
+[![](https://github.com/newhiwoong/Keras-Applications/raw/015d452312af24815ead6770770e9eacad7f2395/images/s5.png)](https://github.com/newhiwoong/Keras-Applications/blob/015d452312af24815ead6770770e9eacad7f2395/images/s5.png)
+
+
+
 ## Reference
+
 > [Keras examples directory](https://github.com/keras-team/keras/tree/master/examples)  
 > [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)  
 > [Deep Learning with Python Code](https://github.com/fchollet/deep-learning-with-python-notebooks)  
