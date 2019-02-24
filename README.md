@@ -14,7 +14,7 @@
 
 ![](images/03.PNG)
 
-4. [CNN visualizing what convnets learn](https://github.com/newhiwoong/Keras-Applications/blob/master/03_CNN_use_pretrained_VGG16.ipynb) : convnets learn과정은 시각화와 CAM(Class Activation Map) 시각화를 통해 CNN 과정을 시각적으로 이해하기
+4. [CNN visualizing what convnets learn](https://github.com/newhiwoong/Keras-Applications/blob/master/04_CNN_visualizing_what_convnets_learn.ipynb) : convnets learn과정은 시각화와 CAM(Class Activation Map) 시각화를 통해 CNN 과정을 시각적으로 이해하기
 
 ![](images/04.PNG)
 
@@ -30,11 +30,21 @@
 
 ![](images/07.PNG)
 
-8. [RNN processing with convnets](https://github.com/newhiwoong/Keras-Applications/blob/master/08_RNN_processing_with_convnets) : 1D convnets을 이용하여 특정 자연어 처리 같은 일부 문제에서 RNN을 대신하는 빠른 모델 제작
+8. [RNN processing with convnets](https://github.com/newhiwoong/Keras-Applications/blob/master/08_RNN_processing_with_convnets.ipynb) : 1D convnets을 이용하여 특정 자연어 처리 같은 일부 문제에서 RNN을 대신하는 빠른 모델 제작
 
 ![](images/08.PNG)  
 
 > Image : https://arxiv.org/abs/1610.03017
+
+
+
+9. [Advanced Keras Functional API](https://github.com/newhiwoong/Keras-Applications/blob/master/09_Advanced_Keras_Functional_API.ipynb) : 함수형 API를 통해서 다중 입력, 다중 출력 등 다양한 모델 제작
+
+![](images/09.PNG)
+
+
+
+
 
 
 
@@ -59,8 +69,6 @@
 - [Trigger Word Detection](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%203/Trigger%20word%20detection/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
 
 [![](https://github.com/newhiwoong/Keras-Applications/raw/015d452312af24815ead6770770e9eacad7f2395/images/s5.png)](https://github.com/newhiwoong/Keras-Applications/blob/015d452312af24815ead6770770e9eacad7f2395/images/s5.png)
-
-
 
 ## Reference
 
