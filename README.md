@@ -36,15 +36,13 @@
 
 > Image : https://arxiv.org/abs/1610.03017
 
-
-
 9. [Advanced Keras Functional API](https://github.com/newhiwoong/Keras-Applications/blob/master/09_Advanced_Keras_Functional_API.ipynb) : 함수형 API를 통해서 다중 입력, 다중 출력 등 다양한 모델 제작
 
 ![](images/09.PNG)
 
+10. [Advanced Keras model checking and monitoring](https://github.com/newhiwoong/Keras-Applications/blob/master/10_Advanced_Keras_model_checking_and_monitoring.ipynb) : 콜백을 사용하여 모델의 훈련 과정을 제어하고 텐서보드를 이용하여 모니터링하기
 
-
-
+![](images/10.PNG)
 
 
 
