@@ -44,6 +44,8 @@
 
 ![](images/10.PNG)
 
+11. [Advanced Keras performance improvements](https://github.com/newhiwoong/Keras-Applications/blob/master/11_Advanced_Keras_performance_improvements.ipynb) : 정규화, 깊이별 분리 합성곱, 하이퍼파라미터 최적화, 모델 앙상블 등 모델의 성능을 향상시키는 방법을 학습한다.
+
 
 
 ## Sequence Models
