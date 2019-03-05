@@ -46,19 +46,13 @@
 
 11. [Advanced Keras performance improvements](https://github.com/newhiwoong/Keras-Applications/blob/master/11_Advanced_Keras_performance_improvements.ipynb) : 정규화, 깊이별 분리 합성곱, 하이퍼파라미터 최적화, 모델 앙상블 등 모델의 성능을 향상시키는 방법을 학습하기
 
-
-
 12. [Generation text with lstm](https://github.com/newhiwoong/Keras-Applications/blob/master/12_Generation_text_with_lstm.ipynb) : 언어 모델(LSTM과 샘플링)을 이용해서 니체의 글을 재생성하기
 
 ![](images/12.gif)
 
-
-
-13. [Generation deep dream](https://github.com/newhiwoong/Keras-Applications/blob/master/13_Generation_deep_dream.ipynb) : 
+13. [Generation deep dream](https://github.com/newhiwoong/Keras-Applications/blob/master/13_Generation_deep_dream.ipynb) : 컨브넷을 거꾸로 실행하여 입력 이미지를 새롭게 생성하는 딥드림 제작
 
 ![](images/13.PNG)
-
-
 
 
 
