@@ -54,11 +54,15 @@
 
 ![](images/13.PNG)
 
-
-
 14. [Generation neural style transfer](https://github.com/newhiwoong/Keras-Applications/blob/master/14_Generation_neural_style_transfer.ipynb) : 유명한 명화의 스타일과 자신이 원하는 사진의 컨텐츠를 합성하기
 
 ![](images/14.PNG)
+
+15. [Generation VAE](https://github.com/newhiwoong/Keras-Applications/blob/master/15_Generation_VAE.ipynb) : VAE를 이용해서 간단한 MNIST 이미지 생성
+
+![](images/15.PNG)
+
+
 
 ## Sequence Models
 
