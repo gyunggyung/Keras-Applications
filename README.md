@@ -62,6 +62,10 @@
 
 ![](images/15.PNG)
 
+16. [Generation GAM](https://github.com/newhiwoong/Keras-Applications/blob/master/16_Generation_GAN.ipynb) : DCGAN을 이용해서 간단한 개구리 이미지 생성
+
+![](images/16.PNG)
+
 
 
 ## Sequence Models
