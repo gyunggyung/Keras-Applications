@@ -14,7 +14,7 @@
 
 ![](images/03.PNG)
 
-4. [CNN visualizing what convnets learn](https://github.com/newhiwoong/Keras-Applications/blob/master/04_CNN_visualizing_what_convnets_learn.ipynb) : convnets learn과정은 시각화와 CAM(Class Activation Map) 시각화를 통해 CNN 과정을 시각적으로 이해하기
+4. [CNN visualizing what convnets learn](https://github.com/newhiwoong/Keras-Applications/blob/master/04_CNN_visualizing_what_convnets_learn.ipynb) : convnets learn과정은 시각화와 CAM(Class Activation Map) 시각화를 통해 CNN 과정을 시각적으로 이해
 
 ![](images/04.PNG)
 
@@ -22,7 +22,7 @@
 
 ![](images/05.PNG)
 
-6. [RNN understanding rnn lstm](https://github.com/newhiwoong/Keras-Applications/blob/master/06_RNN_understanding_rnn_lstm.ipynb) : RNN과 LSTM를 이용하여 IMDB 영화의 긍부정 학습을 하며 RNN과 LSTM의 사용방법 이해하기
+6. [RNN understanding rnn lstm](https://github.com/newhiwoong/Keras-Applications/blob/master/06_RNN_understanding_rnn_lstm.ipynb) : RNN과 LSTM를 이용하여 IMDB 영화의 긍부정 학습을 하며 RNN과 LSTM의 사용방법 이해
 
 ![](images/06.PNG)
 
@@ -40,13 +40,13 @@
 
 ![](images/09.PNG)
 
-10. [Advanced Keras model checking and monitoring](https://github.com/newhiwoong/Keras-Applications/blob/master/10_Advanced_Keras_model_checking_and_monitoring.ipynb) : 콜백을 사용하여 모델의 훈련 과정을 제어하고 텐서보드를 이용하여 모니터링하기
+10. [Advanced Keras model checking and monitoring](https://github.com/newhiwoong/Keras-Applications/blob/master/10_Advanced_Keras_model_checking_and_monitoring.ipynb) : 콜백을 사용하여 모델의 훈련 과정을 제어하고 텐서보드를 이용하여 모니터링
 
 ![](images/10.PNG)
 
-11. [Advanced Keras performance improvements](https://github.com/newhiwoong/Keras-Applications/blob/master/11_Advanced_Keras_performance_improvements.ipynb) : 정규화, 깊이별 분리 합성곱, 하이퍼파라미터 최적화, 모델 앙상블 등 모델의 성능을 향상시키는 방법을 학습하기
+11. [Advanced Keras performance improvements](https://github.com/newhiwoong/Keras-Applications/blob/master/11_Advanced_Keras_performance_improvements.ipynb) : 정규화, 깊이별 분리 합성곱, 하이퍼파라미터 최적화, 모델 앙상블 등 모델의 성능을 향상시키는 방법 학습
 
-12. [Generation text with lstm](https://github.com/newhiwoong/Keras-Applications/blob/master/12_Generation_text_with_lstm.ipynb) : 언어 모델(LSTM과 샘플링)을 이용해서 니체의 글을 재생성하기
+12. [Generation text with lstm](https://github.com/newhiwoong/Keras-Applications/blob/master/12_Generation_text_with_lstm.ipynb) : 언어 모델(LSTM과 샘플링)을 이용해서 니체의 글을 재생성
 
 ![](images/12.gif)
 
@@ -54,7 +54,7 @@
 
 ![](images/13.PNG)
 
-14. [Generation neural style transfer](https://github.com/newhiwoong/Keras-Applications/blob/master/14_Generation_neural_style_transfer.ipynb) : 유명한 명화의 스타일과 자신이 원하는 사진의 컨텐츠를 합성하기
+14. [Generation neural style transfer](https://github.com/newhiwoong/Keras-Applications/blob/master/14_Generation_neural_style_transfer.ipynb) : 유명한 명화의 스타일과 자신이 원하는 사진의 컨텐츠 합성
 
 ![](images/14.PNG)
 
