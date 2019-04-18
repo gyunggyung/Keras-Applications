@@ -93,7 +93,6 @@
 ## Reference
 
 > [Keras examples directory](https://github.com/keras-team/keras/tree/master/examples)  
-> [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)  
 > [Deep Learning with Python Code](https://github.com/fchollet/deep-learning-with-python-notebooks)  
 > [케라스 창시자에게 배우는 딥러닝](https://github.com/rickiepark/deep-learning-with-python-notebooks)  
 > [Coursera Sequence Models](https://www.coursera.org/learn/nlp-sequence-models):[Code](https://github.com/newhiwoong/Sequence-Models-coursera)
